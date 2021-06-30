@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/css/main.c7df81bc.chunk.css",
+    "main.js": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/main.fdbf41b8.chunk.js",
+    "main.js.map": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/main.fdbf41b8.chunk.js.map",
+    "runtime-main.js": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/runtime-main.e5102e5e.js",
+    "runtime-main.js.map": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/runtime-main.e5102e5e.js.map",
+    "static/css/2.a48fbe15.chunk.css": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/css/2.a48fbe15.chunk.css",
+    "static/js/2.3060aa5b.chunk.js": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/2.3060aa5b.chunk.js",
+    "static/js/2.3060aa5b.chunk.js.map": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/2.3060aa5b.chunk.js.map",
+    "index.html": "/http//yavinash-cloud.github.io/Covid-19-Tracker/index.html",
+    "static/css/2.a48fbe15.chunk.css.map": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/css/2.a48fbe15.chunk.css.map",
+    "static/css/main.c7df81bc.chunk.css.map": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/css/main.c7df81bc.chunk.css.map",
+    "static/js/2.3060aa5b.chunk.js.LICENSE.txt": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/js/2.3060aa5b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/http//yavinash-cloud.github.io/Covid-19-Tracker/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5102e5e.js",
+    "static/css/2.a48fbe15.chunk.css",
+    "static/js/2.3060aa5b.chunk.js",
+    "static/css/main.c7df81bc.chunk.css",
+    "static/js/main.fdbf41b8.chunk.js"
+  ]
+}
