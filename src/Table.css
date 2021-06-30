@@ -1,0 +1,17 @@
+.table {
+  margin-top: 20px;
+  overflow: scroll;
+  color: #6a5d5d;
+  height: 650px;
+}
+.table ul {
+  display: flex;
+  justify-content: space-between;
+}
+.table li {
+  list-style-type: none;
+  padding: 0.5rem;
+}
+.table ul:nth-of-type(odd) {
+  background-color: #f3f2f8;
+}
