@@ -130,7 +130,7 @@ function App() {
       </div>
       <Card className='app_right'>
         <CardContent>
-          <h3>Live Content by Country</h3>
+          <h3>Live Content By Country </h3>
           <Table countries={tableData} />
         </CardContent>
       </Card>
