@@ -1,8 +1,8 @@
 {
-  "homepage": "http://yavinash-cloud.github.io/Covid-19-Tracker",
+  "homepage": "https://github.com/yavinash-cloud/Covid-19-tracker-with-React",
   "name": "covid-19-tracker",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@react-leaflet/core": "^1.0.2",
