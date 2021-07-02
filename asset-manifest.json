@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Covid-19-Tracker/static/css/main.c7df81bc.chunk.css",
-    "main.js": "/Covid-19-Tracker/static/js/main.dbc77c18.chunk.js",
-    "main.js.map": "/Covid-19-Tracker/static/js/main.dbc77c18.chunk.js.map",
-    "runtime-main.js": "/Covid-19-Tracker/static/js/runtime-main.a81f8c80.js",
-    "runtime-main.js.map": "/Covid-19-Tracker/static/js/runtime-main.a81f8c80.js.map",
-    "static/css/2.c13e62f9.chunk.css": "/Covid-19-Tracker/static/css/2.c13e62f9.chunk.css",
-    "static/js/2.021a4105.chunk.js": "/Covid-19-Tracker/static/js/2.021a4105.chunk.js",
-    "static/js/2.021a4105.chunk.js.map": "/Covid-19-Tracker/static/js/2.021a4105.chunk.js.map",
-    "index.html": "/Covid-19-Tracker/index.html",
-    "static/css/2.c13e62f9.chunk.css.map": "/Covid-19-Tracker/static/css/2.c13e62f9.chunk.css.map",
-    "static/css/main.c7df81bc.chunk.css.map": "/Covid-19-Tracker/static/css/main.c7df81bc.chunk.css.map",
-    "static/js/2.021a4105.chunk.js.LICENSE.txt": "/Covid-19-Tracker/static/js/2.021a4105.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/Covid-19-Tracker/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/yavinash-cloud/Covid-19-tracker-with-React/static/css/main.c7df81bc.chunk.css",
+    "main.js": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/main.5dc5cd53.chunk.js",
+    "main.js.map": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/main.5dc5cd53.chunk.js.map",
+    "runtime-main.js": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/runtime-main.6fc7b305.js",
+    "runtime-main.js.map": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/runtime-main.6fc7b305.js.map",
+    "static/css/2.54733b02.chunk.css": "/yavinash-cloud/Covid-19-tracker-with-React/static/css/2.54733b02.chunk.css",
+    "static/js/2.021a4105.chunk.js": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/2.021a4105.chunk.js",
+    "static/js/2.021a4105.chunk.js.map": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/2.021a4105.chunk.js.map",
+    "index.html": "/yavinash-cloud/Covid-19-tracker-with-React/index.html",
+    "static/css/2.54733b02.chunk.css.map": "/yavinash-cloud/Covid-19-tracker-with-React/static/css/2.54733b02.chunk.css.map",
+    "static/css/main.c7df81bc.chunk.css.map": "/yavinash-cloud/Covid-19-tracker-with-React/static/css/main.c7df81bc.chunk.css.map",
+    "static/js/2.021a4105.chunk.js.LICENSE.txt": "/yavinash-cloud/Covid-19-tracker-with-React/static/js/2.021a4105.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/yavinash-cloud/Covid-19-tracker-with-React/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a81f8c80.js",
-    "static/css/2.c13e62f9.chunk.css",
+    "static/js/runtime-main.6fc7b305.js",
+    "static/css/2.54733b02.chunk.css",
     "static/js/2.021a4105.chunk.js",
     "static/css/main.c7df81bc.chunk.css",
-    "static/js/main.dbc77c18.chunk.js"
+    "static/js/main.5dc5cd53.chunk.js"
   ]
 }
